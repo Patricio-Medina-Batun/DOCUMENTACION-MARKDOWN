@@ -1,7 +1,7 @@
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Tanjiro Jesús Hernández López
-## Actividad \#16 - Matrices doc
+## Alumno: Patricio Medina Batun
+## Actividad \#16 - Matrices doc 11/11/2025
 
 ---
 ### Identificación de matrices
