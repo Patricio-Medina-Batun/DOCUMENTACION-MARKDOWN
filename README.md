@@ -26,6 +26,7 @@ $$ B =
 $$
 
 Es una matriz simétrica
+
 $$ C =
 \begin{pmatrix}
 2 & 1 & 4\\
@@ -35,6 +36,7 @@ $$ C =
 $$
 
 Es una matriz triangular superior
+
 $$ D =
 \begin{pmatrix}
 1 & 2 & 3\\
